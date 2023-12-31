@@ -90,13 +90,13 @@ endmodule
 ## Output:
 ## Logic symbol & Truthtable
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/main/Screenshot%202023-12-31%20180417.png)
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/main/Screenshot%202023-12-31%20180438.png)
 
 ## RTL realization
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/main/Screenshot%202023-12-31%20180218.png)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
